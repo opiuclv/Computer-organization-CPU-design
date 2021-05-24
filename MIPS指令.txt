@@ -1,0 +1,18 @@
+add       rd        rs        rt        rd = rs + rt (with overflow)
+sub       rd        rs        rt        rd = rs - rt
+and       rd        rs        rt        put rs AND rt into rd
+or        rd        rs        rt        rd = rs OR rt
+sll       rd        rt        sa        rd = rt shifted left by distance sa
+slt       rd        rs        rt        if (rs<rt) rd=1;else rd=0
+slti	  $d	    $s	      imm	If $s is less than immediate, $t is set to one. It gets zero otherwise.
+beq       rs        rt        label     branch to label if (rs==rt)
+j         label                         jump to label
+jal       label                         jump to label and save next instruction in rd
+lw        rd        address             load the word at address into rd
+lw        rd        offset(base)        load word at addr offset+base into rd
+sw        rt        address             store the word in rt to address
+sw        rt        offset(base)        store word in rt to addr offset+base
+nop                                     do nothing
+divu      $s, $t			$Lo= $s/$t ; $Hi = $s%$t  除法操作，?符?
+mfhi 	  $d	$d = $Hi	        ?特殊寄存器取值到 $s
+mflo      $d	$d = $Lo	        ?特殊寄存器取值到 $s
