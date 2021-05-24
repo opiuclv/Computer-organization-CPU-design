@@ -1,0 +1,252 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Modeltech_pe_edu_10.4a/examples
+vALU
+Z1 !s110 1527627664
+!i10b 1
+!s100 ljzik[n7Y3O1nP>fHhae91
+IlBQ4jR0bXI58fP9mkmn<G3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/User/Desktop/Midterm project NO.12
+w1527627639
+8C:/Users/User/Desktop/Midterm project NO.12/ALU.v
+FC:/Users/User/Desktop/Midterm project NO.12/ALU.v
+L0 12
+Z4 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z5 !s108 1527627664.000000
+!s107 C:/Users/User/Desktop/Midterm project NO.12/ALU.v|
+!s90 -reportprogress|300|-work|testALU|C:/Users/User/Desktop/Midterm project NO.12/ALU.v|
+!s101 -O0
+!i113 1
+Z6 o-work testALU -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@a@l@u
+vALUControl
+Z7 !s110 1527620587
+!i10b 1
+!s100 dSAQfC4i<YdAVaG6ID83E3
+IQWIGFTNzZC77S[]CzKOLW3
+R2
+R0
+w1527358314
+8C:/Users/User/Desktop/Midterm project NO.12/ALUControl.v
+FC:/Users/User/Desktop/Midterm project NO.12/ALUControl.v
+L0 17
+R4
+r1
+!s85 0
+31
+Z8 !s108 1527620587.000000
+!s107 C:/Users/User/Desktop/Midterm project NO.12/ALUControl.v|
+!s90 -reportprogress|300|-work|test|C:/Users/User/Desktop/Midterm project NO.12/ALUControl.v|
+!s101 -O0
+!i113 1
+Z9 o-work test -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@a@l@u@control
+vALURCA
+R1
+!i10b 1
+!s100 1_a4Daz<>flc:60NRQ9Ld1
+IPbQI]_Ib`7G4ZQY[DfT]51
+R2
+R3
+w1527627618
+8C:/Users/User/Desktop/Midterm project NO.12/ALURCA.v
+FC:/Users/User/Desktop/Midterm project NO.12/ALURCA.v
+L0 10
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/User/Desktop/Midterm project NO.12/ALURCA.v|
+!s90 -reportprogress|300|-work|testALU|C:/Users/User/Desktop/Midterm project NO.12/ALURCA.v|
+!s101 -O0
+!i113 1
+R6
+n@a@l@u@r@c@a
+vDivider
+R7
+!i10b 1
+!s100 2RZo6cULNFXZ3D94TQ15U1
+IM^I?PM3A@Ak_2Qdi=bo]c2
+R2
+R0
+w1527619620
+8C:/Users/User/Desktop/Midterm project NO.12/Divider.v
+FC:/Users/User/Desktop/Midterm project NO.12/Divider.v
+L0 8
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/Midterm project NO.12/Divider.v|
+!s90 -reportprogress|300|-work|test|C:/Users/User/Desktop/Midterm project NO.12/Divider.v|
+!s101 -O0
+!i113 1
+R9
+n@divider
+vFA
+R7
+!i10b 1
+!s100 O[B7Bb2;8I2fOcaSOCDno2
+IMz2RUgVidiQV>bCLdeKzG0
+R2
+R0
+w1527425846
+8C:/Users/User/Desktop/Midterm project NO.12/FA.v
+FC:/Users/User/Desktop/Midterm project NO.12/FA.v
+L0 2
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/Midterm project NO.12/FA.v|
+!s90 -reportprogress|300|-work|test|C:/Users/User/Desktop/Midterm project NO.12/FA.v|
+!s101 -O0
+!i113 1
+R9
+n@f@a
+vHiLo
+R7
+!i10b 1
+!s100 0dFBn;e10[FhbI5EZ>gC`2
+I8nP?;i`2hUkHVn<dA5ZWa2
+R2
+R0
+w1527358336
+8C:/Users/User/Desktop/Midterm project NO.12/HiLo.v
+FC:/Users/User/Desktop/Midterm project NO.12/HiLo.v
+L0 7
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/Midterm project NO.12/HiLo.v|
+!s90 -reportprogress|300|-work|test|C:/Users/User/Desktop/Midterm project NO.12/HiLo.v|
+!s101 -O0
+!i113 1
+R9
+n@hi@lo
+vMUX
+R7
+!i10b 1
+!s100 4385;DYgK=25VOI:1Y1JQ1
+Ijo7nih>Y1EU0>gPhX2_DX0
+R2
+R0
+w1527427481
+8C:/Users/User/Desktop/Midterm project NO.12/MUX.v
+FC:/Users/User/Desktop/Midterm project NO.12/MUX.v
+L0 7
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/Midterm project NO.12/MUX.v|
+!s90 -reportprogress|300|-work|test|C:/Users/User/Desktop/Midterm project NO.12/MUX.v|
+!s101 -O0
+!i113 1
+R9
+n@m@u@x
+vRCA
+R7
+!i10b 1
+!s100 N<CgNP@J_f5Pg:eU]E^2d3
+I9S:M23ljRjdZ1JKKP[d161
+R2
+R0
+w1527427017
+8C:/Users/User/Desktop/Midterm project NO.12/RCA.v
+FC:/Users/User/Desktop/Midterm project NO.12/RCA.v
+L0 2
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/Midterm project NO.12/RCA.v|
+!s90 -reportprogress|300|-work|test|C:/Users/User/Desktop/Midterm project NO.12/RCA.v|
+!s101 -O0
+!i113 1
+R9
+n@r@c@a
+vShifter
+R7
+!i10b 1
+!s100 ei06ATP@6J5UiAoFMFKIk0
+I[1F`CjJ;P8;3Z]?]J:RMS3
+R2
+R0
+w1527426370
+8C:/Users/User/Desktop/Midterm project NO.12/Shifter.v
+FC:/Users/User/Desktop/Midterm project NO.12/Shifter.v
+L0 7
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/Midterm project NO.12/Shifter.v|
+!s90 -reportprogress|300|-work|test|C:/Users/User/Desktop/Midterm project NO.12/Shifter.v|
+!s101 -O0
+!i113 1
+R9
+n@shifter
+vtb_ALU
+R7
+!i10b 1
+!s100 6HX1>_O485De3n88Riac`0
+IO6?bTYl=aP;LY?Nn6CDP21
+R2
+R0
+w1527358358
+8C:/Users/User/Desktop/Midterm project NO.12/tb_ALU.v
+FC:/Users/User/Desktop/Midterm project NO.12/tb_ALU.v
+L0 6
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/Midterm project NO.12/tb_ALU.v|
+!s90 -reportprogress|300|-work|test|C:/Users/User/Desktop/Midterm project NO.12/tb_ALU.v|
+!s101 -O0
+!i113 1
+R9
+ntb_@a@l@u
+vTotalALU
+!s110 1527620588
+!i10b 1
+!s100 @D^;U>zcn?J:hQlVXBmlD3
+I9:e@PN9EI;S2KAKla5;_L0
+R2
+R0
+w1527358390
+8C:/Users/User/Desktop/Midterm project NO.12/TotalALU.v
+FC:/Users/User/Desktop/Midterm project NO.12/TotalALU.v
+L0 2
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/Midterm project NO.12/TotalALU.v|
+!s90 -reportprogress|300|-work|test|C:/Users/User/Desktop/Midterm project NO.12/TotalALU.v|
+!s101 -O0
+!i113 1
+R9
+n@total@a@l@u
